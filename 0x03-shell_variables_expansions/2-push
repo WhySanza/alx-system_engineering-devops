@@ -1,2 +1,2 @@
 #!/bin/bash
-PASH=:/action 
+PATH=$PATH:/action
